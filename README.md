@@ -89,6 +89,3 @@ probabilities = loaded_model.predict_proba(new_data)[:, 1]
 # 3. Save the updated model
 ```
 
-## License
-
-[Add your license information here]
